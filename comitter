@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Please Enter A Commit Message"
+read message
+git add . && git commit -m "$message" && git push
