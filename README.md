@@ -15,7 +15,7 @@ To use this script, follow these steps:
 
 - Simplifies the process of committing work to a repository
 - Prompts the user for all required information
-- Customizable to fit your specific needs
+- Customizable to fit your specific needs.
 
 ## Contributing
 
