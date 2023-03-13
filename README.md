@@ -1,7 +1,7 @@
 
 # ALX Commit Helper
 
-This bash script helps ALX students easily commit their work to their repository.
+This bash script helps ALX students easily commit their work to their repository
 for all task
 
 ## Usage
